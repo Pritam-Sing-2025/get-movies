@@ -20,7 +20,7 @@ function Favorites() {
 
   return (
     <div className="favorites-empty">
-      <h2>No Favorite Movies Yet</h2>
+      <h2>You've no favorite movies yet</h2>
       <p>Start adding movies to your favorites and they will appear here!</p>
     </div>
   );
